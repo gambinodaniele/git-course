@@ -1,5 +1,5 @@
 Added line before rebase
-LINE 0
+LINE 0 a
 line 1
 line 2
 line 3
