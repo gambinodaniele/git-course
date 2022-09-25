@@ -1,3 +1,4 @@
+Added line before rebase
 LINE 0
 line 1
 line 2
